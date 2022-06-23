@@ -32,6 +32,6 @@
     "typescript": "^2.4.0"
   },
   "dependencies": {
-    "codecov": "^3.6.1"
+    "codecov": "^3.8.3"
   }
 }
